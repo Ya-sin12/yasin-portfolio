@@ -27,15 +27,7 @@ A modern and responsive personal portfolio website built to showcase my web desi
 - Back-to-top button
 - Mobile-friendly navigation
 
-## 📁 Project Structure
-
-```text
-Personal Portfolio/
-├── css/
-├── cv/
-├── images/
-├── js/
-└── index.html
+  
 👨‍💻 About Me
 I'm Yasin Arafat, a web designer and front-end developer from Bangladesh. I create modern, responsive and user-friendly websites with clean code and premium UI.
 📬 Contact
@@ -45,3 +37,13 @@ Location: Feni, Bangladesh
 📄 License
 
 This project is created for my personal portfolio.
+
+## 📁 Project Structure
+
+```text
+Personal Portfolio/
+├── css/
+├── cv/
+├── images/
+├── js/
+└── index.html
